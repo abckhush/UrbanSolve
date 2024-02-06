@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "459959638825",
+    "firebase_url": "https://snu-smart-city-2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "snu-smart-city-2",
+    "storage_bucket": "snu-smart-city-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459959638825:android:0356ee9da1c7ad5752f538",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLeOOEv5Ye0v5fDWvAAXS7MDEFY5d-LWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
