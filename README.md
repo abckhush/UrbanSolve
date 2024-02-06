@@ -25,13 +25,13 @@ In the future, we plan to enhance UrbanSolve by incorporating additional feature
 
 # Installation
 - Clone the Repository
-  bash ``` git clone https://github.com/abckhush/UrbanSolve.git
+  ```bash git clone https://github.com/abckhush/UrbanSolve.git
 - Navigate to the project directory
-  bash ``` cd potapp12/Pothole-Detection/MOBILE_APP/UrbanSolve
+  ```bash cd potapp12/Pothole-Detection/MOBILE_APP/UrbanSolve
 - Install dependencies
-  bash ``` flutter pub get
+  ```bash flutter pub get
 - Run the app
-  bash``` flutter run
+  ```bash flutter run
 
 # Support
 For any issues or feedback related to Urban Solve, please contact our team at:<br />
